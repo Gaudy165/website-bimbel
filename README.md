@@ -5,6 +5,12 @@ Website landing page sederhana untuk layanan **bimbingan belajar** yang dirancan
 
 ---
 
+## Snapshot
+
+![Rimberio Bimbel](img/demo.png)
+
+---
+
 ## ✨ Fitur Utama
 
 - 🧭 **Navbar**  
