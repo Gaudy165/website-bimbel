@@ -1,69 +1,60 @@
-# 🎓 Rimberio Bimbel
+# 🎓 Rimberio Bimbel — Modern Tutoring Landing Page
 
-Selamat datang di repository **Website Bimbel**! 🚀  
-Website landing page sederhana untuk layanan **bimbingan belajar** yang dirancang menarik dan informatif agar calon siswa tertarik bergabung bersama **Rimberio Bimbel**.
-
----
-
-## Snapshot
-
-![Rimberio Bimbel](img/demo.png)
+**Rimberio Bimbel** adalah website landing page premium untuk institusi bimbingan belajar yang dirancang dengan estetika modern, performa tinggi, dan pengalaman pengguna yang mulus. Proyek ini dibangun menggunakan teknologi web murni (Vanilla) untuk memastikan kecepatan akses maksimal.
 
 ---
 
-## ✨ Fitur Utama
+## 📸 Preview & Snapshot
 
-- 🧭 **Navbar**  
-  Navigasi intuitif yang menghubungkan ke bagian Beranda, Program, Benefit, dan Form Pendaftaran.
-<br />
-- 🌟 **Hero Section**  
-  Headline menarik yang langsung menyampaikan keunggulan layanan.
-<br />
-
-- 💡 **Benefit**  
-  Menampilkan keunggulan Rimberio Bimbel dengan visual menarik dan informatif.
-<br />
-
-- 📝 **Form Pendaftaran**  
-  Formulir pendaftaran sederhana untuk mempermudah calon siswa mendaftar.
+![Rimberio Bimbel Preview](img/preview.png)
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## ✨ Fitur Unggulan
 
-- 🔹 HTML5  
-- 🔹 CSS3  
-- 🔹 JavaScript  
+Proyek ini bukan sekadar landing page biasa. Berikut adalah fitur-fitur teknis yang diimplementasikan:
 
----
-
-## 🎯 Deskripsi Proyek
-
-Proyek ini bertujuan membangun website **landing page bimbel** yang modern, responsif, dan mudah digunakan.  
-Website didesain untuk meningkatkan daya tarik dan minat calon siswa melalui tampilan yang clean dan user friendly.
-
----
-
-## 📱 Responsivitas
-
-- ✅ Tampilan optimal di layar desktop.
-- ⚠️ Masih memerlukan penyempurnaan layout dan struktur untuk perangkat mobile atau layar kecil.
+- 🌓 **Smart Dual Mode**: Perpindahan antara mode *Light* dan *Dark* yang cerdas dengan sinkronisasi preferensi sistem dan penyimpanan lokal (`localStorage`).
+- 📱 **Fully Responsive Adaptive Layout**: Desain yang dioptimalkan secara mendalam menggunakan sistem *Consolidated Media Queries* untuk tampilan sempurna di desktop, tablet, hingga smartphone.
+- 💬 **Dynamic Testimonial Engine**: Slider testimoni terkini yang ditenagai oleh JavaScript dinamis dengan fitur *auto-play* dan kontrol interaktif.
+- 📝 **Advanced Registration Form**:
+  - Validasi *real-time* untuk keamanan data.
+  - **Custom Dropdown Component**: Pilihan paket belajar dengan komponen dropdown buatan sendiri (bukan bawaan browser) untuk estetika yang konsisten.
+  - Penangan pesan sukses menggunakan sistem **Toast Notification**.
+- 🚀 **Performance Optimized**:
+  - **Clean & DRY Code**: Semua gaya CSS didefinisikan menggunakan *CSS Variables*.
+  - **Global Error Handling**: Penanganan otomatis untuk kegagalan pemuatan gambar menggunakan inisial nama.
+  - **Smooth Reveal Animations**: Efek kemunculan elemen saat di-scroll menggunakan `Intersection Observer API`.
 
 ---
 
-## 🚧 Pengembangan Selanjutnya
+## 🛠️ Teknologi yang Digunakan
 
-- 📱 Penyempurnaan tampilan untuk mobile & tablet.
-- ✨ Penambahan animasi interaktif menggunakan JavaScript.
-- 🔗 Integrasi Form Pendaftaran dengan backend atau layanan email.
+Proyek ini dibangun dengan pendekatan **Vanilla Web Stack** untuk performa tanpa kompromi:
+
+- **HTML5**: Struktur semantik yang ramah SEO dan aksesibel.
+- **Vanilla CSS3**: Menggunakan arsitektur *Variable-based* dan *Flexbox/Grid* modern tanpa framework eksternal.
+- **Vanilla JavaScript (ES6+)**: Logika interaktif murni tanpa beban *library* tambahan seperti jQuery.
+
+---
+
+## 💡 Filosofi Desain
+
+Rimberio Bimbel mengusung palet warna **Navy Blue & Gold** yang melambangkan kepercayaan, profesionalisme, dan prestasi. Penggunaan tipografi **Plus Jakarta Sans** memberikan kesan modern dan ramah bagi audiens milenial dan Gen Z.
 
 ---
 
 ## 💻 Kontribusi
 
-Kontribusi sangat terbuka!  
-Silakan fork repository ini, buat branch baru, dan ajukan pull request jika ingin menyumbangkan ide atau fitur baru.
+Kami sangat menghargai kontribusi Anda! Jika Anda memiliki ide perbaikan atau tambahan fitur:
+1. Fork proyek ini.
+2. Buat fitur branch baru (`git checkout -b feature/FiturKeren`).
+3. Commit perubahan Anda (`git commit -m 'Menambahkan fitur keren'`).
+4. Push ke branch tersebut (`git push origin feature/FiturKeren`).
+5. Buka Pull Request.
 
 ---
 
-⭐ Jika Anda menyukai proyek ini, jangan lupa beri bintang repository ini agar lebih semangat mengembangkannya!  
+<p align="center">
+  Dibuat dengan ❤️ oleh <strong>Rimberio Team</strong>
+</p>
