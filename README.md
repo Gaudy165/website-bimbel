@@ -2,6 +2,8 @@
 
 **Rimberio Bimbel** adalah website landing page premium untuk institusi bimbingan belajar yang dirancang dengan estetika modern, performa tinggi, dan pengalaman pengguna yang mulus. Proyek ini dibangun menggunakan teknologi web murni (Vanilla) untuk memastikan kecepatan akses maksimal.
 
+🔗 **[Live Demo](https://bimbel-rimberio.vercel.app/)**
+
 ---
 
 ## 📸 Preview & Snapshot
